@@ -1,0 +1,1 @@
+# Language-String-File-Generator-for-Android-and-iOS-Google-Scripts-
